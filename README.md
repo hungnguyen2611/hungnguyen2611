@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hung+Nguyen+%7C+Data+Scientist+%7C+GitHub" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=Hung+Nguyen+%7C+Data+Scientist+%7C+GitHub" alt="Typing SVG" /></a>
 <br/>
 
 <a href="https://hungnguyen2611.github.io/" target="_blank">
